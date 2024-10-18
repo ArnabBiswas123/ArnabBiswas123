@@ -6,7 +6,7 @@
 
 - 🔭 I’m currently **a recent graduate passionate about building applications with the MERN stack and related techologies.**
 
-- 🌱 I've honed my expertise in **API development, building dynamic web applications, and tackling full-stack projects**
+- 🌱 I've honed my expertise in **API development, building dynamic web applications, and tackling full-stack projects.**
 
 - 💬 Ask me about **DS & Algorithm , MERN stack Development and Core Computer Science**
 
