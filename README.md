@@ -4,7 +4,7 @@
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=arnabbiswas123&label=Profile%20views&color=0e75b6&style=flat" alt="arnabbiswas123" /> </p>
 
-- 🔭 I’m currently **a recent graduate passionate about building scalable applications with the MERN stack**
+- 🔭 I’m currently **a recent graduate passionate about building applications with the MERN stack and related techologies.**
 
 - 🌱 I’m currently learning **Full stack Web Development , Systems Design, and Core Computer Science.**
 
