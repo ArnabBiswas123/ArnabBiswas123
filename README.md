@@ -4,7 +4,7 @@
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=arnabbiswas123&label=Profile%20views&color=0e75b6&style=flat" alt="arnabbiswas123" /> </p>
 
-- 🔭 I’m currently **a recent graduate passionate about building applications with the MERN stack and related techologies.**
+- 🚀 **Full-Stack MERN + Next.js Developer | DevOps | AI & LLM Model Deployment | Aspiring Blockchain Developer**
 
 - 🌱 I've honed my expertise in **API development, building dynamic web applications, and full-stack projects.**
 
